@@ -2,7 +2,7 @@
   <div>&nbsp;</div>
  <!-- <img src="resources/openvoicelogo.jpg" width="400"/> -->
 
-[Paper](https://arxiv.org/abs/2312.01479) |
+[Paper](https://arxiv.org/abs/2312.01479)
 
 
 </div>
